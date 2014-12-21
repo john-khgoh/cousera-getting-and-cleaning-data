@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-##Getting and Cleaning Data: Course Project
+#Getting and Cleaning Data: Course Project
+##Contents
 This repository contains the following contents as required for Coursera Getting and Cleaning Data course work.
 * R script - run_analysis.r
 * CodeBook - describes the details of the script mechanisms and some choices made to arrive at the tidy data sample
