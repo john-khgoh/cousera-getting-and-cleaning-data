@@ -12,9 +12,3 @@ This repository contains the following contents as required for Coursera Getting
 4. Run source("run_analysis.r")
 5. tidydata.txt will be generated
 
-=======
-cousera-getting-and-cleaning-data
-=================================
-
-Coursera's Getting and Cleaning Data course project
->>>>>>> d03652db4d9d4c1596d81af0e848911582419e9e
